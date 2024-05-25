@@ -1,0 +1,9 @@
+<!DOCTYPE suite System "https://testing.org/testing-1.0.dtd">
+
+<suite name ="API Automation API">
+    <test name="API Test">
+        <classes>
+            <class name = "apiauto.apiTest"/>
+        </classes>
+    </test>
+</suite>
